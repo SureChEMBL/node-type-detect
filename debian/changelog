@@ -1,0 +1,6 @@
+node-type-detect (4.0.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #840408)
+
+ -- Syam G Krishnan <sgk@riseup.net>  Tue, 11 Oct 2016 17:17:38 +0530
+
